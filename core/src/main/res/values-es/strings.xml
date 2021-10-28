@@ -5,6 +5,7 @@
 * Ejegg
 * Fitoschido
 * Geryescalier
+* Jakeukalane
 * Johny Weissmuller Jr
 * Macofe
 * Macondo
@@ -203,7 +204,7 @@
   <string name="paused_state">En pausa</string>
   <string name="save">Guardar</string>
   <string name="note">Nota</string>
-  <string name="wiki_article_title">Título del artículo de la Wiki</string>
+  <string name="wiki_article_title">Título del artículo de la wiki</string>
   <string name="ext_storage_permission_rationale_add_note">Se necesitan permisos de almacenamiento para notas</string>
   <string name="ext_storage_write_permission_denied_add_note">No se pueden utilizar las notas sin acceso al almacenamiento</string>
   <string name="note_save_unsuccessful">No se pudo guardar la nota</string>
